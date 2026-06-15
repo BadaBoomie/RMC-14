@@ -113,8 +113,6 @@ public sealed class ChatSanitizationManager : IChatSanitizationManager
 //        { "T-T7", "chatsan-tearfully-salutes" }, // RMC14
 //        { "T_T7", "chatsan-tearfully-salutes" }, // RMC14
 //        { "T~T7", "chatsan-tearfully-salutes" }, // RMC14
-        { "idk", "chatsan-shrugs" },
-        { "idgaf", "chatsan-shrugs" }, // RMC14
         { ";)", "chatsan-winks" },
         { ";]", "chatsan-winks" },
         { "(;", "chatsan-winks" },
